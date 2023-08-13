@@ -1,3 +1,5 @@
+#include <iostream>
+
 void main() {
     int a, b, c, d, e;
 
@@ -11,5 +13,4 @@ void main() {
     std::cout << "引き算" << b << std::endl;
     std::cout << "掛け算" << c << std::endl;
     std::cout << "割り算" << d << std::endl;
-    //std::cout << "余り" << e << std::endl;
 }
